@@ -8,5 +8,5 @@ def createArray(troubleCodes):
         array.append(splitAction[x])
     print(array)
 
-troubleCodes = input("Please paste the list that you want to convert here: ")
+troubleCodes = input("Please paste the list here: ")
 createArray(troubleCodes)
